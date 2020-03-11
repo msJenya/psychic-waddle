@@ -1,0 +1,14 @@
+.note-page__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.note__title_input, .note__text_input {
+    line-height: 40px;
+    font-size: 24px;
+    text-align: center;
+    width: 80%;
+    margin: 20px;
+    border: none;
+}
